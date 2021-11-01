@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2lgmwE2rCkCNZ1+v/Ao0TgAAAAACAAAAAAAQZgAAAAEAACAAAABBFT8Ik8QC9nHYfsWb7FxaTA8hIzZtg0btO2UTlXNYWQAAAAAOgAAAAAIAACAAAACu0DSn8sEGe3vvxgXjSbKEWZSIfdDZ2iupxVg9ANQbbIAAAAA9jmt0o79s0j0Stn9bFbyKNTIF9NIGX3r8m80HLWQOI8b5sctrS1bnopf2Da6S46FR8m7iiUj6MM8FXtlrQsocL8uCb7XN7UGvVUwaaEqcnVsMDLlazEVBhYlN1roUAJ23kOg1aOXuX7/yleeJkPbfRcyNj3CLaZCYMedv0i5YzkAAAADT/OW6wl66k1/J5imO1+U7h+wvL0a1TgTOmPewC8/KKWfgGy3bcFTb5P4HIFqQg2mxyoaN4eHxHoyFTIY1thE6</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SmarterASPConnection">
+      <Value>Server=MYSQL5047.site4now.net%3bDatabase=db_a75fd3_roomies%3bUid=a75fd3_roomies%3bPwd=Backyardigans123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
